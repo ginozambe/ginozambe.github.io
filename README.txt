@@ -1,4 +1,4 @@
-Gino Zambelli Portfolio Website
+Gino Zambelli Portfolio Website.
 
 A collection of data and coding projects by @ginozambe
 
